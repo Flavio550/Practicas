@@ -1,3 +1,4 @@
 Nombre = "Flavio"
 Apellido = "Bravo"
-print (f"Hola soy {Nombre} {Apellido}, estudiante de programacion 1")
+Edad = "30 años"
+print (f"Hola soy {Nombre} {Apellido},tengo {Edad} y soy estudiante de programacion 1")
